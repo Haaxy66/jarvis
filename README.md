@@ -8,7 +8,8 @@ A real-time, multimodal AI assistant built with React and the Google GenAI SDK. 
 
 [**Watch Demo Video**](https://www.linkedin.com/feed/update/urn:li:activity:7405299691761889280/)
 
-**Try the app in AI Studio:** [https://aistudio.google.com/apps/drive/1wx874xhoXGo_RJn9IvnsyJmG-hhQK8wI?showPreview=true&showAssistant=true](https://aistudio.google.com/apps/drive/1wx874xhoXGo_RJn9IvnsyJmG-hhQK8wI?showPreview=true&showAssistant=true)  
+[**Try the app in AI Studio:**](https://aistudio.google.com/apps/drive/1wx874xhoXGo_RJn9IvnsyJmG-hhQK8wI?showPreview=true&showAssistant=true)
+ 
 *(Note: Requires a billing account for Nano Banana Pro usage)*
 
 ## Documentation

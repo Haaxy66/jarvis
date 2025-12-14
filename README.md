@@ -1,5 +1,5 @@
 <div align="center">
-
+<img width="450px" src="https://github.com/user-attachments/assets/eafe8efd-23a5-4ab3-b524-e45a21a76685">
 </div>
 
 # Jarvis: Multimodal Live Assistant
@@ -11,6 +11,8 @@ A real-time, multimodal AI assistant built with React and the Google GenAI SDK. 
 [**Try the app in AI Studio:**](https://aistudio.google.com/apps/drive/1wx874xhoXGo_RJn9IvnsyJmG-hhQK8wI?showPreview=true&showAssistant=true)
  
 *(Note: Requires a billing account for Nano Banana Pro usage)*
+
+<img width="500px" src="https://github.com/user-attachments/assets/0914a886-b681-4fb1-aab5-b3a3dcd04682">
 
 ## Documentation
 

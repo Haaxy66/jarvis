@@ -31,8 +31,8 @@ This is the heart of the application. It handles:
 #### `ToolService` (`services/toolService.ts`)
 Handles the execution of specific tools requested by the AI model:
 - **Search**: Uses `gemini-2.5-flash` with the `googleSearch` tool to retrieve real-time information.
-- **Image Generation**: Uses `gemini-3-pro-image-preview` to generate images from text prompts.
-- **Image Reimagination**: Uses `gemini-3-pro-image-preview` to modify or "reimagine" the user's camera feed based on a prompt.
+- **Image Generation**: Uses (Nano Banana Pro) `gemini-3-pro-image-preview` to generate images from text prompts.
+- **Image Reimagination**: Uses (Nano Banana Pro) `gemini-3-pro-image-preview` to modify or "reimagine" the user's camera feed based on a prompt.
 
 ### 2. Frontend Components
 

